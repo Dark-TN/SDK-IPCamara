@@ -1,0 +1,10 @@
+C:\Users\jedua\Desktop\Camara\GUI\bin\Debug\GUI.exe.config
+C:\Users\jedua\Desktop\Camara\GUI\bin\Debug\GUI.exe
+C:\Users\jedua\Desktop\Camara\GUI\bin\Debug\GUI.pdb
+C:\Users\jedua\Desktop\Camara\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\jedua\Desktop\Camara\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\jedua\Desktop\Camara\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\jedua\Desktop\Camara\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\jedua\Desktop\Camara\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Desktop\Camara\GUI\obj\Debug\GUI.exe
+C:\Users\jedua\Desktop\Camara\GUI\obj\Debug\GUI.pdb
