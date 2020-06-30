@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*Todos los metodos utilizados vienen dpcumentados en los respectivos manuales de cada SDK. Se dividieron los metodos para las camaras Hikvision y Dahua */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,7 +64,7 @@ namespace EntityLayer.Negocio.RealPlay
                 this.HUserID = 0;
                 return _Respuesta;
             }
-            for (int i = 1; i <= Convert.ToInt32(struDeviceInfo.byChanNum); i++) { this.Canales.Add(i); }
+            for (int i = 1; i <= Convert.ToInt32(struDeviceInfo.byChanNum); i++) { this.Canales.Add(i); } //Se extraen los canales del dispositivo
             _Respuesta.Exitoso = true;
             return _Respuesta;
         }
@@ -95,7 +96,7 @@ namespace EntityLayer.Negocio.RealPlay
                 _Respuesta.Mensaje = NETClient.GetLastError();
                 return _Respuesta;
             }
-            for (int i = 1; i <= m_DeviceInfo.nChanNum; i++) { this.Canales.Add(i); }
+            for (int i = 1; i <= m_DeviceInfo.nChanNum; i++) { this.Canales.Add(i); } //Se extraen los canales del dispositivo
             _Respuesta.Exitoso = true;
             return _Respuesta;
         }
