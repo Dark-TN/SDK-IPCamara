@@ -1,1 +1,1 @@
-Ejemplo de utilización de los SDK de Hikvision y Dahua en C# para visualizar cámaras IP en tiempo real. 
+Uso de los SDK de Hikvision y Dahua en C# para visualizar cámaras IP en tiempo real. 
